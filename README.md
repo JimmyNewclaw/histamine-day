@@ -4,7 +4,7 @@ A Claude skill for tracking a day's histamine load from photos or text.
 
 New chat = new day. Send a photo of your dinner, get back what it scored and where your day is sitting. At the end of the day it hands you a one-line summary you can paste into a running note.
 
-Built after nine years of unexplained hives and a lot of emergency rooms. Full story: [link to article]
+Built after nine years of unexplained hives and a lot of emergency rooms. Full story: https://x.com/JimmyNewclaw/status/2079961596361658533?s=20
 
 ## Why not an app
 
